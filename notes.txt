@@ -1,0 +1,6 @@
+Learning git commands:
+git clone
+git statu
+git add
+git commit
+git push
